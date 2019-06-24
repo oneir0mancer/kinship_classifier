@@ -6,7 +6,7 @@
 * `PyTorch >= 1.0`
 
 ## Get started
-1. Download (Families in the Wild)[https://www.kaggle.com/c/recognizing-faces-in-the-wild/data] dataset. Unzip and organize like this:
+1. Download [Families in the Wild](https://www.kaggle.com/c/recognizing-faces-in-the-wild/data) dataset. Unzip and organize like this:
 
 ```
 data
