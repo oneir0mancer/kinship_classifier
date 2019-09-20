@@ -1,5 +1,7 @@
 # Kin verification with siamese neural network
 
+Convolutional neural network for kinship verification. More information can be found in [this paper](https://moluch.ru/archive/264/61157/).
+
 ## Requrements
 
 * `Python >= 3.6`
